@@ -15,7 +15,7 @@ const First = (props) =>{
 
 <div className='hd'>
 
-	<a  href={props.href}>Download</a>
+	<a  href={props.href} target='_blank'>Download</a>
 
 </div>
 </div>
