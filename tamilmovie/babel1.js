@@ -15,7 +15,7 @@ const First = (props) =>{
 
 <div className='hd'>
 
-	<a  href={props.href}>Download</a>
+	<a  href={props.href} target='blank'>Download</a>
 
 </div>
 </div>
@@ -33,7 +33,7 @@ const App = () => {
      <span>
          <First src='img/maamanithan.jpg'
           title='	maamanithan (2022) tamil movies  HD 720 watch online'  
-          href='http://vidmx.xyz/yembed-og4omgms0bnh.html'
+          href='https://bit.ly/3RMXTih'
  
            />
            <First src='img/bestie.jpg'
