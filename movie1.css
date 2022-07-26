@@ -61,4 +61,6 @@ left: 10%;
 }
 iframe{
 width:100%;
+	background-color:none;
+	z-index:1;
 }
