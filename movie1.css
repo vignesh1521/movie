@@ -64,3 +64,60 @@ a.container-e57cc8bdf0c50ce017f5544a5729fc24__link{
 	background-color:transparent;
 	
 }
+.fmenu .fa-solid{
+	color:white;
+	position:fixed;
+	left: 10px;
+	float: left;
+	width: 100%;
+	background-color: transparent;
+	z-index: 2;
+
+}
+
+#mcontent{
+
+	display: none;
+}
+.mcontent{
+	
+	position:fixed;
+	
+		width: 97%;
+	height: 25%;
+	z-index: 1;
+
+}
+
+.mcontent li{
+
+text-align: center;
+	line-height: 35px;
+	border-radius:10px; 
+border-bottom:1px solid #878787;
+	list-style: none;
+	font-family: 'Oswald', sans-serif;
+	width:100%;
+	background-color: transparent;
+
+}
+
+#mark1{
+	
+	display: none;
+}
+#menu1{
+
+	display: block;
+}
+@media screen and (max-width: 400px){
+.mcontent{
+
+
+	
+		width: 90%;
+
+
+}
+
+}
